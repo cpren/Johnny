@@ -48,7 +48,7 @@
                     </value>
                     <next>
                       <block type="led_select" id="13" inline="true">
-                        <field name="ACTION">OFF</field>
+                        <field name="ACTION">ON</field>
                         <value name="LED">
                           <block type="variables_get" id="14">
                             <field name="VAR">light</field>
